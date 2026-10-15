@@ -12,10 +12,10 @@ Previously, I worked on data pipelines at RBC and AI systems and full-stack serv
 
 ### [Workbase](https://github.com/arkb75/Workbase)
 
-A personal project that turns repository evidence into career content backed by human-approved claims. It combines GitHub ingestion, durable AI workflows, provenance tracking, and review before publication.
+A repository knowledge platform that imports GitHub code and notes, maintains source-linked findings, and supports cited project chat. I also built interactive highlight graphs and coverage matrices for exploring shared evidence, inspecting review status, and approving findings. Approved highlights can be reused for career content.
 
 **TypeScript · Next.js · PostgreSQL · Prisma · OpenRouter / AWS Bedrock**  
-[Architecture and setup](https://github.com/arkb75/Workbase#readme) · [Domain tests](https://github.com/arkb75/Workbase/tree/main/src/services/__tests__)
+[Architecture and setup](https://github.com/arkb75/Workbase#readme) · [Domain tests](https://github.com/arkb75/Workbase/tree/main/src/services/__tests__) · [Atlas/Coverage implementation (feature branch)](https://github.com/arkb75/Workbase/tree/feature/highlights-atlas-coverage/components/highlights)
 
 ### [SoloPilot](https://github.com/arkb75/SoloPilot)
 
@@ -39,7 +39,7 @@ A team project from Hack The Coast 2026 connecting founders and investors. My wo
 ## Tools I work with
 
 - **Languages:** TypeScript/JavaScript, Python, Java, C++, SQL
-- **Backend and data:** Node.js, PostgreSQL, DynamoDB, Apache Spark, Airflow
-- **AI and infrastructure:** OpenAI API, AWS Bedrock, XGBoost, AWS, Docker, Git, CI/CD
+- **Backend and data:** Node.js, PostgreSQL, DynamoDB, Apache Spark, Trino
+- **AI and infrastructure:** OpenAI API, OpenRouter, AWS (Bedrock, Lambda, S3), Docker, Git, CI/CD
 
 For experience details and project context, see my [résumé](https://github.com/arkb75/Resume/blob/resume/ai-platform/abdul_khurram_resume.pdf) and [portfolio](https://www.abdulkhurram.com).
